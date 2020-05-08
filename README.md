@@ -3,6 +3,9 @@ A face detecting application built on flutter framework<br>
 Integrated with Google's FirebaseVision to model and test results<br>
 
 ## Screenshots
+![homepage](https://github.com/uV3301/FaceDec_FirebaseML-facerecognition/tree/master/example/homepage.jpg?raw=true)
+![getimage](https://github.com/uV3301/FaceDec_FirebaseML-facerecognition/tree/master/example/imagescan.jpg?raw=true)
+![results](https://github.com/uV3301/FaceDec_FirebaseML-facerecognition/tree/master/example/result.jpg?raw=true)
 
 ##  How to?
 ----
