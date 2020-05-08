@@ -4,6 +4,8 @@ Integrated with Google's FirebaseVision to model and test results<br>
 
 ## Screenshots
 ![homepage](/example/hompage.png?raw=true)
+![imagescanning](/example/imagescan.png)
+![results](/example/result.png)
 
 ##  How to?
 ----
