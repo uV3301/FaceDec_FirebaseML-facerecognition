@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130273455030",
+    "firebase_url": "https://my-vison-f5270.firebaseio.com",
+    "project_id": "my-vison-f5270",
+    "storage_bucket": "my-vison-f5270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130273455030:android:b172da40ed07cee170af17",
+        "android_client_info": {
+          "package_name": "com.flutter.face_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130273455030-7595a7vv01hkrji7rkf3hittagsb8p4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.face_detector",
+            "certificate_hash": "77469ec193c6430e5f8fb918011bdf7a70051e40"
+          }
+        },
+        {
+          "client_id": "130273455030-allar5qeu016kctllr1bhtc0mmjotjpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB25xSTw0Dmq1MFl8Vr_a9Q8VJkHqu200g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130273455030-allar5qeu016kctllr1bhtc0mmjotjpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
