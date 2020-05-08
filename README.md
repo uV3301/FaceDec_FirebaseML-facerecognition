@@ -3,10 +3,10 @@ A face detecting application built on flutter framework<br>
 Integrated with Google's FirebaseVision to model and test results<br>
 
 ## Screenshots
-![homepage](/example/hompage.png?raw=true)
+![homepage](/example/hompage.png)
 ![imagescanning](/example/imagescan.png)
 ![results](/example/result.png)
-
+</br>
 ##  How to?
 ----
 ### Download
